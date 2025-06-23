@@ -10,7 +10,7 @@ async def create_github_repo_service(auth_data: dict, repo_name: str, connection
 
     Returns:
         dict: The created repository details.
-
+jb
     Raises:
         HTTPException: If the request to create the repository fails.
     """fvd
